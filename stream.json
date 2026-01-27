@@ -103,5 +103,10 @@
         "id": "skylaliga",
         "mpd": "https://zap-live2-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd",
         "key": "c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8"
+    },
+    {
+        "id": "skypl",
+        "mpd": "https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd",
+        "key": "ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89"
     }
 ]
