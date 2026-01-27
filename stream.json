@@ -8,6 +8,11 @@
         "m3u8": "https://datakameha.route64.de/o11/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjuvj2rvvicxrnkz6yv7trjfgvclufhjzqc4sbokquffkgsf7jkprq/index.m3u8"
     },
     {
+        "id": "fubo",
+        "mpd": "https://abeudapaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+        "key": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f"
+    },
+    {
         "id": "cbs",
         "mpd": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/0g0pydbajk/out/v1/1815304eb3534ac29bdd404c1b4c8c5e/cenc.mpd",
         "key": "ee84210f7bbc45d43ed9293da6d3eebc:d83568e079aabac88305b408d22bb624"
