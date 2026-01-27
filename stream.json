@@ -273,5 +273,10 @@
   {
     "id": "704",
     "m3u8": "https://pstvplaylive.online/2025/ps_ipl-liv.m3u8?ps=field_view_cam"
-  }
+  },
+    {
+        "id": "ss1selecthd",
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/output/index.mpd",
+        "key": "c2c048e439d65316beeda6ef64d5d0f8:"e2fdc132cbdee65501b845ce414fce39"
+    }
 ]
