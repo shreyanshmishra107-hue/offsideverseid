@@ -35,6 +35,11 @@
         "key":"4e4c5dba5bfe5a7c9338bc086eb80379:b8e8932f440084e1d2b705fa52eef94b"
     },
     {
+        "id": "sonyliv2",
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyLIV_Sports_2_MOB/WDVLive/index.mpd",
+        "key":"ef24516ae38b50d18049343cd1cd998a:eb4810ec250a1795a0019dba7881ff45"
+    },
+    {
         "id": "prime",
         "mpd": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/att545vfjr/out/v1/450d606c6a17471f84d09372f55004e2/cenc.mpd",
         "key": "f159241d40e659d58e81bc17ca30da31:6b7fe24f7a16343bd447b0b30f68b7b2"
