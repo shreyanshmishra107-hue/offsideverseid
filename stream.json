@@ -93,5 +93,10 @@
         "id": "fox",
         "mpd": "https://live1-814bffb9b389f652.fastly.foxtelgroupcdn.net.au/v1/dash/b259a4c6c7055dd33d5a9109c9d584b5dd51dd5a/StrEx-dash-avc-drm-session/out/v1/c1566607e84d4dd0bc7e53bc26943d14/index.mpd?aws.manifestfilter=audio_codec%3AAACL%3Btrickplay_height%3A1-2&aws.sessionId=3b95653d-2629-42e7-8e89-6761416b2d57",
         "key": "a2ba14ee5ef4440d8e56a8bb5403117d:b77a334fd7aff9c9960ca7785a20ea66"
+    },
+    {
+        "id": "bein3",
+        "mpd": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "key":"7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
     }
 ]
