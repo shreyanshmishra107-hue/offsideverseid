@@ -15,6 +15,11 @@
         "key":"159dd69da817d0d0ac8fda7e438cd60c:40d9fba7aebb69953b20bf7af83c29bd"
     },
     {
+        "id": "usa",
+        "mpd": "https://usanetwork.mt.linear.viewlift.com/v1/dash/dfe581e0a446a1e548014078b2d81b62b917979d/usanetwork-linear-external-dash-primary-v1/Content/DASH_DASH_ENC/Live/channel(4e41f6af-4b86-2aac-c351-c1250b14b344)/master.mpd",
+        "key":"6fe4b567ec9b467a888a089600c93f55:b8612265451c8c462fb6b55ad3a6b6d8"
+    },
+    {
         "id": "willowsports",
         "mpd": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
         "key":"1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e"
